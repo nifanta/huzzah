@@ -1,3 +1,3 @@
-print("Hawk Tuah")
-for i in range(5):
-    print("Meow")
+count = int(input("Enter a number: "))
+for i in range(count):
+            print("nya")
